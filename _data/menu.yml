@@ -7,6 +7,9 @@
 - title: "CV"
   href: "/cv/"
 
+- title: "Projects"
+  href: "/projects/"  
+
 - title: "Miscellany"
   href: "/miscellany/"
   subcategories:
