@@ -6,7 +6,7 @@ permalink: /projects/
 
 Tell us about your blog. Hopefully it's cool.
 
-[test](https://raw.githubusercontent.com/anirudhkm/anirudhkm.github.io/master/_projects/2017-01-05-opiate-prescription-analysis-using-machine-learning.markdown)
+[test](/projects/2017-01-05-opiate-prescription-analysis-using-machine-learning.markdown)
 
 <ul class="listing">
 {% for post in site.projects %}
