@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-{% include image.html url="/images/anirudhkm.jpg" width=300 align="right" %}
+{% include image.html url="/images/anirudhkm.jpg" caption = "Taken during career fair" width=300 align="right" %}
 
 ### ABOUT ME
 
