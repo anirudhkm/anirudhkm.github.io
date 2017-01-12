@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "MOTHER - THE MANIFESTATION OF INSPIRATION AND WILL POWER"
-date:   2016-10-09 10:20:05
+date:   2016-11-18 10:20:05
 categories: Thoughts
 author: Anirudh K Muralidhar
 ---
@@ -12,11 +12,11 @@ The important attributes that I learned from these people are being genuine and 
 
 I never had the privilege to meet these people, but at the same time I had the blessing to live with one such diamond throughout my life; my mother. She is just the personification of all inspiring persons who has directed all her energy towards the welfare of her family.
 
->*She is not the fittest person, but becomes the most energetic when it matters,
->She is not the best cook, but ensures that she cooks the best for me,
->She is not the best teacher, but gives her best when she teaches me,
->She is not the richest, but always gives her best to satisfy me,
->She is not a warrior, but saves her best to protect me!*
+>*She is not the fittest person, but becomes the most energetic when it matters!*
+>*She is not the best cook, but ensures that she cooks the best for me!*
+>*She is not the best teacher, but gives her best when she teaches me!*
+>*She is not the richest, but always gives her best to satisfy me!*
+>*She is not a warrior, but saves her best to protect me!*
 
 This list could go on, but the beauty is that she does these not for any recognition, but out of pure love. She is just the classic example of what love can achieve. Whatever I do to her, it can’t even touch what she did to me. 
 
