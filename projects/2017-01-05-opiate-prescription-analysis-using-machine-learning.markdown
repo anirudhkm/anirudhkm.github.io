@@ -6,7 +6,7 @@ categories: projects
 author: Anirudh K Muralidhar
 ---
 
-{% include image.html url="/images/projects/opiate/usa.png" width=300 align="right" %}
+{% include image.html url="/images/projects/opiate/usa.png" caption = "Opiate affected states in 2014" width=350 align="right" %}
 
 ### SUMMARY
 
