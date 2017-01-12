@@ -4,11 +4,9 @@ title:  Opiate/Opioid prescription analysis using machine learning
 date:   2017-01-05 10:20:05
 categories: projects
 author: Anirudh K Muralidhar
-images:
-  - images/projects/opiate/usa.png
-  - images/projects/opiate/dist.png
-
 ---
+
+{% include image.html url="/images/projects/opiate/usa.png" width=300 align="right" %}
 
 ### SUMMARY
 
