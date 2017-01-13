@@ -35,6 +35,6 @@ These are the algorithms that are implemented and the results are compared.
 
 Comparison of all the above algorithms are done and the results are published in the paper below.  
 
-[Click here to download the paper](https://drive.google.com/open?id=0B9nEIkjMSZbjWEh1MzYySjRNbmM)  
+[Click here to download report](https://drive.google.com/open?id=0B9nEIkjMSZbjWEh1MzYySjRNbmM)  
 
 [Click here to download the codes](https://github.com/anirudhkm/opiate-prescription-analysis)
