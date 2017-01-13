@@ -10,5 +10,7 @@ Below listed are my works
 
 ## Works
 
-1. [*Opiate/Opioid prescription analysis using machine learning*](/projects/2017-01-05-opiate-prescription-analysis-using-machine-learning.markdown), Fall 2016 semester.
+1. [*Opiate/Opioid prescription analysis using machine learning*](/projects/2017-01-05-opiate-prescription-analysis-using-machine-learning.markdown), Fall 2016 semester by *Anirudh K Muralidhar* and *Arunram Sankaranarayanan*.
+
+
 
