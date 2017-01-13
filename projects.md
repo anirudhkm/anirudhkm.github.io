@@ -8,6 +8,6 @@ My projects and work primarily revolve around Machine Learning(supervised and un
 
 ## Works
 
-1. [Opiate/Opioid prescription analysis using machine learning](/projects/2017-01-05-opiate-prescription-analysis-using-machine-learning.markdown), Fall 2016 semester by [*Anirudh K Muralidhar*](https://www.linkedin.com/in/anirudhkm) and [*Arunram Sankaranarayanan*](https://www.linkedin.com/in/arunsank).
+1. [Opiate/Opioid prescription analysis using machine learning](/projects/2017-01-05-opiate-prescription-analysis-using-machine-learning.markdown), Fall 2016 semester by *Anirudh K Muralidhar* and *Arunram Sankaranarayanan*.
 
-2. []
+2. [Kobe Bryant's NBA career analysis](/projects/2016-11-30-kobe-bryant-nba-career-analysis.markdown), Fall 2016 by *Anirudh K Muralidhar, Siddharth Jayasankar* and *Vipul Munot*.
