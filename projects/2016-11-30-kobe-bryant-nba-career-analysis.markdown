@@ -28,7 +28,6 @@ The dataset has been obtained from Kaggle where it was originally sourced from s
 
 {% include image.html url="/images/projects/nba analysis/viz.jpg" caption = "On court visualizations from our results" width=1000 align="center" %}
 
-
 We have justified on our stand on the type of visualization we choose for each analysis that we have done. Also, there are few interactive visualizations done which serves more purpose.
 
 ### RESULTS
