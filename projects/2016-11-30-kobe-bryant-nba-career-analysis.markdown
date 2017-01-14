@@ -26,14 +26,14 @@ The dataset has been obtained from Kaggle where it was originally sourced from s
 
 ### METHODS
 
-{% include image.html url="/images/projects/nba analysis/viz.jpg" caption = "One court visualizations from our results" width=1000 align="center" %}
+{% include image.html url="/images/projects/nba analysis/viz.jpg" caption = "On court visualizations from our results" width=1000 align="center" %}
 
 
 We have justified on our stand on the type of visualization we choose for each analysis that we have done. Also, there are few interactive visualizations done which serves more purpose.
 
 ### RESULTS
 
-[Click here to download report](https://github.com/anirudhkm/Kobe-s-NBA-career-analysis/blob/master/FinalReport.pdf)  
+[Click here to download report](https://github.com/anirudhkm/Kobe-s-NBA-career-analysis/blob/master/FinalReport.pdf) in order to see the complete set of results and analysis.
 
 [Click here to download the codes](https://github.com/anirudhkm/Kobe-s-NBA-career-analysis)
 
