@@ -31,6 +31,25 @@ We also continue to develop the recommender system based on factors such as movi
 
 This is similar to the one that I have worked [here](/projects/2016-11-30-decision-tree-bag-boost.markdown)
 
+## TASK THREE - IMPLEMENTATION OF ASSOCIATION RULES
+
+#### **OVERALL**
+
+The aim is to implement mine association rules from a given transcation data.
+
+#### **DATASET**
+
+The transaction data are synthesized from the datasets such as [mushroom](https://archive.ics.uci.edu/ml/datasets/Mushroom), [solar](https://archive.ics.uci.edu/ml/datasets/Solar+Flare) and [nursery](https://archive.ics.uci.edu/ml/datasets/nursery) which are available from [UCI](https://archive.ics.uci.edu/ml/datasets.html).
+
+#### **METHODS**
+
+First, we implement the association rule program code and then test them by varying the support and set the threshold for confidence and lift.
+
+#### **RESULTS**
+
+[Click here to download the report](https://github.com/anirudhkm/data-mining-course/blob/master/hw3/main.pdf) which shows all the results obtained.
+
+[Click here to move to code repository](https://github.com/anirudhkm/data-mining-course/tree/master/hw3/3)
 
 
 
