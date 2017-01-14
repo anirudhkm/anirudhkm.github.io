@@ -13,3 +13,5 @@ My projects and work primarily revolve around Machine Learning(supervised and un
 2. [Kobe Bryant's NBA career analysis](/projects/2016-11-30-kobe-bryant-nba-career-analysis.markdown), Fall 2016 by *Anirudh K Muralidhar, Siddharth Jayasankar* and *Vipul Munot*.
 
 3. [Implementation of Decision tree with bagging and boosting wrapper](/projects/2016-11-30-decision-tree-bag-boost.markdown), Fall 2016 by *Anirudh K Muralidhar* and *Arunram Sankaranarayanan*.
+
+4. [Data Mining coursework programming tasks](/projects/2016-04-30-data-mining-course.markdown), Spring 2016 by *Anirudh K Muralidhar*.
