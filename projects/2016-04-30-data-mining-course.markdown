@@ -19,10 +19,7 @@ The [movielens dataset](http://grouplens.org/datasets/movielens/) is used to ser
 #### **METHODS**
 
 In case one we develop the system using the rating feature alone using distance metrics such as Euclidean, Manhattan and L<sub>max</sub>.
-
-We also, continue to develop the recommender system based on factors such as movie genre, user's gender and others.
-
-These systems are evaluated using Mean Absolute Difference(MAD).
+We also, continue to develop the recommender system based on factors such as movie genre, user's gender and others. These systems are evaluated using Mean Absolute Difference(MAD).
 
 #### **RESULTS**
 
