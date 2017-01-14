@@ -28,12 +28,10 @@ The dataset has been obtained from Kaggle where it was originally sourced from s
 
 We have justified on our stand on the type of visualization we choose for each analysis that we have done. Also, there are few interactive visualizations done which serves more purpose.
 
-[Click here to see the visualizations](https://github.com/anirudhkm/Kobe-s-NBA-career-analysis/blob/master/Code/index.html)
-
 ### RESULTS
 
-Comparison of all the above algorithms are done and the results are published in the paper below.  
+[Click here to download report](https://github.com/anirudhkm/Kobe-s-NBA-career-analysis/blob/master/FinalReport.pdf)  
 
-[Click here to download report](https://drive.google.com/open?id=0B9nEIkjMSZbjWEh1MzYySjRNbmM)  
+[Click here to download the codes](https://github.com/anirudhkm/Kobe-s-NBA-career-analysis)
 
-[Click here to download the codes](https://github.com/anirudhkm/opiate-prescription-analysis)
+Download all the code files and run the index.html file in order to experience all the visualizations.
