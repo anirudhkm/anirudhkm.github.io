@@ -6,8 +6,6 @@ categories: projects
 author: Anirudh K Muralidhar
 ---
 
-{% include image.html url="/images/projects/nba analysis/kobe.jpg" caption = "Kobe Bryant from NBA. Image taken from Google images" width=350 align="right" %}
-
 ### SUMMARY
 
 This task involves implementing the decision tree algorithm without the use of any external packages such as sklearn. Added to this we implement the boosting and bagging algorithm which are wrapped with the decision tree based on the input system arguments.
