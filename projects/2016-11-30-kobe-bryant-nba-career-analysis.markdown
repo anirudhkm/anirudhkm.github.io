@@ -35,8 +35,8 @@ We have justified on our stand on the type of visualization we choose for each a
 The prediction model that we developed using XGBoost algorithm to predict if Kobe will make or miss a shot gave the following results.
 
 | **Metrics**   | **Score**   |
-|:-------------:|:-----------:|
-|Accuracy       |68.28%       |
+|:-------------|:-----------:|
+|Accuracy       |0.68        |
 |Precision      |0.69         |
 |Recall         |0.68         |
 
