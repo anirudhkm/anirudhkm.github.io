@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Programming tasks done with Data Mining course, Spring 2016
-date:   2016-11-30 10:20:05
+date:   2016-04-30 10:20:05
 categories: projects
 author: Anirudh K Muralidhar
 ---
