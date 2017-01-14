@@ -19,11 +19,14 @@ The [movielens dataset](http://grouplens.org/datasets/movielens/) is used to ser
 #### **METHODS**
 
 In case one we develop the system using the rating feature alone using distance metrics such as Euclidean, Manhattan and L<sub>max</sub>.
-We also, continue to develop the recommender system based on factors such as movie genre, user's gender and others. These systems are evaluated using Mean Absolute Difference(MAD).
+We also continue to develop the recommender system based on factors such as movie genre, user's gender and others. These systems are evaluated using Mean Absolute Difference(MAD).
 
 #### **RESULTS**
 
-[Click here to download report](https://github.com/anirudhkm/data-mining-course/blob/master/hw1/hw1.pdf). Question 5 shows the results for recommender system. Num 4 explains about the curse of dimensionality.
+[Click here to move to repository](https://github.com/anirudhkm/data-mining-course/tree/master/hw1). Download **main.pdf** for the results. Question 5 shows the results for recommender system. Num 4 explains about the curse of dimensionality.
+
+[Click here to move to code](https://github.com/anirudhkm/data-mining-course/tree/master/hw1/5)
+
 
 
 
