@@ -6,19 +6,19 @@ categories: projects
 author: Anirudh K Muralidhar
 ---
 
-### SUMMARY
+### **SUMMARY**
 
 This programming task involves implementing the decision tree algorithm without the use of any external packages such as sklearn. Added to this we implement the boosting and bagging algorithm which are wrapped with the decision tree based on the input system arguments.
 
-### MOTIVATION
+### **MOTIVATION**
 
 The motivation to take up this task is that to understand the working of these algorithms in a deep way.
 
-### DATASET
+### **DATASET**
 
 The [mushroom dataset](https://github.com/anirudhkm/implementation-of-decision-tree-with-bagging-and-boosting/tree/master/mushrooms) from UCI has been used for this task.
 
-### RESULTS
+### **RESULTS**
 
 [Click here to download report](https://github.com/anirudhkm/implementation-of-decision-tree-with-bagging-and-boosting/blob/master/PA2_PerformanceResults.pdf) in order to see the complete set of results and analysis.
 

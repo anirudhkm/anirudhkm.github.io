@@ -27,6 +27,9 @@ We also continue to develop the recommender system based on factors such as movi
 
 [Click here to move to code](https://github.com/anirudhkm/data-mining-course/tree/master/hw1/5)
 
+## TASK TWO - DECISION TREE IMPLEMENTATION
+
+This is similar to the one that I have worked [here](/projects/2016-11-30-decision-tree-bag-boost.markdown)
 
 
 
