@@ -10,7 +10,9 @@ author: Anirudh K Muralidhar
 
 ### SUMMARY
 
-The crux of this project is to analyze the hit and miss performance of [NBA](https://www.nba.com) players based on the given data. For this project we have the data for [Kobe Bryant](https://en.wikipedia.org/wiki/Kobe_Bryant). Since, it is a sports doamin we want to convey our analysis through visualizations and finally develop a prediction model.
+The crux of this project is to analyze the hit and miss performance of [NBA](https://www.nba.com) players based on the given player's data. For this project we have the data for [Kobe Bryant](https://en.wikipedia.org/wiki/Kobe_Bryant). Since, it is a sports doamin we want to convey our analysis through visualizations and finally develop a prediction model.
+
+By doing such analysis we will be able to compare players's performance which can help the team management. For this project, we just perform analysis for one player alone.
 
 ### MOTIVATION
 
@@ -26,9 +28,17 @@ The dataset has been obtained from Kaggle where it was originally sourced from s
 
 ### METHODS
 
+We have justified on our stand on the type of visualization we choose for each analysis that we have done. Also, there are few interactive visualizations done which serves more purpose.
+
 {% include image.html url="/images/projects/nba analysis/viz.jpg" caption = "On court visualizations from our results" width=1000 align="center" %}
 
-We have justified on our stand on the type of visualization we choose for each analysis that we have done. Also, there are few interactive visualizations done which serves more purpose.
+The prediction model that we developed using XGBoost algorithm to predict if Kobe will make or miss a shot gave the following results.
+
+|**Metrics**  |**Score**|
+|-------------|---------|
+|Accuracy     |68.28%   |
+|Precision    |0.69     |
+|Recall       |0.68     |
 
 ### RESULTS
 
