@@ -32,6 +32,8 @@ Following are the algorithms that we exercised for this project
 
 ### **RESULTS**
 
-From the overall experiment we found that support vector machine proved to be the best algorithm for this case.
+From the overall experiment we found that support vector machine proved to be the best algorithm for this dataset. One of the main reason why SVM has worked well is because of the sparse nature of the dataset.
 
+[Click here to download the report](https://github.com/anirudhkm/data-mining-course/blob/master/project/report.pdf) which shows all the results and inferences.
 
+[Click here to move to code repository](https://github.com/anirudhkm/data-mining-course/tree/master/project)
