@@ -30,7 +30,7 @@ Following are the algorithms that we exercised for this project
 4. Logistic regression.
 5. Support Vector Machines.
 
-{% include image.html url="/images/projects/doc_comparison/algo_comp.png" caption = "Comparison of algorithms with F-1 measure." width=900 align="right" %}
+{% include image.html url="/images/projects/doc_comparison/algo_comp.png" caption = "Comparison of algorithms with F-1 measure." width=450 align="right" %}
 
 ### **RESULTS**
 
