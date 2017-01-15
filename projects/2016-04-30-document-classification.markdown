@@ -30,6 +30,8 @@ Following are the algorithms that we exercised for this project
 4. Logistic regression.
 5. Support Vector Machines.
 
+{% include image.html url="/images/projects/doc_comparison/algo_comp.png" caption = "Kobe Bryant from NBA. Image taken from Google images" width=350 align="right" %}
+
 ### **RESULTS**
 
 From the overall experiment we found that support vector machine proved to be the best algorithm for this dataset. One of the main reason why SVM has worked well is because of the sparse nature of the dataset.
