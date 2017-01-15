@@ -15,3 +15,6 @@ My projects and work primarily revolve around Machine Learning(supervised and un
 3. [Implementation of Decision tree with bagging and boosting wrapper](/projects/2016-11-30-decision-tree-bag-boost.markdown), Fall 2016 by *Anirudh K Muralidhar* and *Arunram Sankaranarayanan*.
 
 4. [Data Mining coursework programming tasks](/projects/2016-04-30-data-mining-course.markdown), Spring 2016 by *Anirudh K Muralidhar*.
+
+5. [Performance comparison of various classification algorithms for text classification](/projects/2016-04-30-document-classification.markdown), Spring 2016 by *Anirudh K Muralidhar*, *Santhosh Soundararajan* and *Praneet Vizappu*.
+
