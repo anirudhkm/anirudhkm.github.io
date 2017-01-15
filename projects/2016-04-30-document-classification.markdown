@@ -10,13 +10,13 @@ author: Anirudh K Muralidhar
 
 The outcome of this project is to compare the performance of various algorithms and evaluate its performance with and without cross validation.
 
+{% include image.html url="/images/projects/doc_comparison/flow.png" caption = "Comparison of algorithms with F-1 measure." width=300 align="left" %}
+
 ### **MOTIVATION**
 
 It's obvious that machine learning has scaled great heights, but still there is no concrete reasons why we should use a particular algorithm to a particular dataset.
 
 We take motivation from this to compare the performance of several algorithm when applied on the same dataset which gives us a better understanding of how algorithm the behaves.
-
-{% include image.html url="/images/projects/doc_comparison/flow.png" caption = "Comparison of algorithms with F-1 measure." width=250 align="left" %}
 
 ### **DATASET**
 
