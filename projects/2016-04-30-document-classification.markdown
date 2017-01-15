@@ -30,7 +30,7 @@ Following are the algorithms that we exercised for this project
 4. Logistic regression.
 5. Support Vector Machines.
 
-{% include image.html url="/images/projects/doc_comparison/algo_comp.png" caption = "Kobe Bryant from NBA. Image taken from Google images" width=350 align="right" %}
+{% include image.html url="/images/projects/doc_comparison/algo_comp.png" caption = "Kobe Bryant from NBA. Image taken from Google images" width=500 align="center" %}
 
 ### **RESULTS**
 
