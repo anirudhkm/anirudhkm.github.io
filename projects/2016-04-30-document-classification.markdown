@@ -16,6 +16,8 @@ It's obvious that machine learning has scaled great heights, but still there is 
 
 We take motivation from this to compare the performance of several algorithm when applied on the same dataset which gives us a better understanding of how algorithm the behaves.
 
+{% include image.html url="/images/projects/doc_comparison/flow.png" caption = "Comparison of algorithms with F-1 measure." width=250 align="left" %}
+
 ### **DATASET**
 
 To serve the purpose, we opted the [twenty newsgroup](http://qwone.com/~jason/20Newsgroups/) dataset. The reason we chose text data is because we to see which algorithm works best with text.
