@@ -18,3 +18,5 @@ My projects and work primarily revolve around Machine Learning(supervised and un
 
 5. [Performance comparison of various classification algorithms for text classification](/projects/2016-04-30-document-classification.markdown), Spring 2016 by *Anirudh K Muralidhar*, *Santhosh Soundararajan* and *Praneet Vizappu*.
 
+6. [Analysis of baseball data for performance measure and prediction](/projects/2015-11-30-sabermetrics-analysis.markdown), Fall 2015 by *Anirudh K Muralidhar* and *Naren Suri*.
+
