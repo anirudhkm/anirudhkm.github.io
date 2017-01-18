@@ -8,7 +8,7 @@ My projects and work primarily revolve around Machine Learning(supervised and un
 
 ## Works
 
-1. [Opiate/Opioid prescription analysis using machine learning](https://github.com/anirudhkm/opiate-prescription-analysis), Fall 2016. [PDF Report](https://drive.google.com/open?id=0B9nEIkjMSZbjWEh1MzYySjRNbmM)
+1. [Opiate/Opioid prescription analysis using machine learning](https://github.com/anirudhkm/opiate-prescription-analysis), Fall 2016. [[PDF Report]](https://drive.google.com/open?id=0B9nEIkjMSZbjWEh1MzYySjRNbmM)
 
 2. [Kobe Bryant's NBA career analysis](/projects/2016-11-30-kobe-bryant-nba-career-analysis.markdown), Fall 2016 by *Anirudh K Muralidhar, Siddharth Jayasankar* and *Vipul Munot*.
 
