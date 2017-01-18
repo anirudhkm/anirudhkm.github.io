@@ -8,15 +8,11 @@ My projects and work primarily revolve around Machine Learning(supervised and un
 
 ## Works
 
-1. [Opiate/Opioid prescription analysis using machine learning](https://github.com/anirudhkm/opiate-prescription-analysis){:target="_blank"}, Fall 2016 by *Anirudh K Muralidhar* and *Arunram Sankaranarayanan*.[[PDF Report]](https://drive.google.com/open?id=0B9nEIkjMSZbjWEh1MzYySjRNbmM){:target="_blank"}
+1. [Opiate/Opioid prescription analysis using machine learning](https://github.com/anirudhkm/opiate-prescription-analysis){:target="_blank"}, Fall 2016 by *Anirudh K Muralidhar* and *Arunram Sankaranarayanan*.[[PDF Report](https://drive.google.com/open?id=0B9nEIkjMSZbjWEh1MzYySjRNbmM){:target="_blank"}]
 
-2. [Kobe Bryant's NBA career analysis](/projects/2016-11-30-kobe-bryant-nba-career-analysis.markdown), Fall 2016 by *Anirudh K Muralidhar, Siddharth Jayasankar* and *Vipul Munot*.
+2. [Kobe Bryant's NBA career analysis](https://github.com/anirudhkm/Kobe-s-NBA-career-analysis){:target="_blank"}, Fall 2016 by *Anirudh K Muralidhar, Siddharth Jayasankar* and *Vipul Munot*. [[PDF Report](https://drive.google.com/open?id=0B9nEIkjMSZbjQzh0ZG40YlVMYTQ){:target="_blank"}]
 
-3. [Implementation of Decision tree with bagging and boosting wrapper](/projects/2016-11-30-decision-tree-bag-boost.markdown), Fall 2016 by *Anirudh K Muralidhar* and *Arunram Sankaranarayanan*.
-
-4. [Data Mining coursework programming tasks](/projects/2016-04-30-data-mining-course.markdown), Spring 2016 by *Anirudh K Muralidhar*.
-
-5. [Performance comparison of various classification algorithms for text classification](/projects/2016-04-30-document-classification.markdown), Spring 2016 by *Anirudh K Muralidhar*, *Santhosh Soundararajan* and *Praneet Vizappu*.
+3. [Performance comparison of various classification algorithms for text classification](/projects/2016-04-30-document-classification.markdown), Spring 2016 by *Anirudh K Muralidhar*, *Santhosh Soundararajan* and *Praneet Vizappu*.
 
 6. [Analysis of baseball data for performance measure and prediction](/projects/2015-11-30-sabermetrics-analysis.markdown), Fall 2015 by *Anirudh K Muralidhar* and *Naren Suri*.
 
