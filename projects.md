@@ -14,7 +14,5 @@ My projects and work primarily revolve around Machine Learning(supervised and un
 
 3. [Performance comparison of various classification algorithms for text classification](https://github.com/anirudhkm/data-mining-course/tree/master/project), Spring 2016 by *Anirudh K Muralidhar*, *Santhosh Soundararajan* and *Praneet Vizappu*.[[PDF Report](https://drive.google.com/open?id=0B9nEIkjMSZbjQjFBQzFEVGJKbjg){:target="_blank"}]
 
-4. 
-
-6. [Analysis of baseball data for performance measure and prediction](/projects/2015-11-30-sabermetrics-analysis.markdown), Fall 2015 by *Anirudh K Muralidhar* and *Naren Suri*.
+4. [Analysis of baseball data for performance measure and prediction](https://github.com/anirudhkm/sabermetrics-I590), Fall 2015 by *Anirudh K Muralidhar* and *Naren Suri*.[[PDF Report](https://drive.google.com/drive/u/0/folders/0B9nEIkjMSZbjT2VSOTFTNGtuTXM){:target="_blank"}]
 
