@@ -6,7 +6,11 @@ permalink: /contact/
 
 The best way to contact me would me my email. I generally reply within 48 hours.
 
-### **Email**: [anikamal@iu.edu](anikamal@iu.edu)
+## **Email**
+
+* anikamal@iu.edu
+* anirudh796@gmail.com
+* anirudhkm@outlook.com
 
 ## Social networks
 
