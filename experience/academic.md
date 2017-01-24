@@ -26,7 +26,7 @@ Starting from spring 2016, I have been serving as an Associate Instructor for th
 
 My role involves to lead the other Associate Instructors, supervise their performance, keep track of students score and attendance. Also, each week I conduct lab to give hands on experience to students and hold office hours as well.
 
-Office hours timing: Tuesday (2 - 4 PM)
+**Office hours timing**: Tuesday (2 - 4 PM)
 
 ## **Coursework**
 
