@@ -7,8 +7,7 @@ permalink: /experience/academic/
 ## **Coursework**
 
 ### **Fall 2015**
-
-* INFO-I519 Introduction to Bioinformatics [Grade: A]
+* INFO-I519 INTRODUCTION TO BIOINFORMATICS
 * INFO-I590 Topics in Informatics - Big data applications
 
 ## **Projects**
