@@ -10,8 +10,13 @@
 - title: "CV"
   href: "/cv/"
 
-- title: "Projects"
-  href: "/projects/"  
+- title: "Experience"
+  href: "/experience/"  
+  subcategories:
+    - subtitle: "Academic"
+      subhref: "/experience/academic/"
+    - subtitle: "Industrial"
+      subhref: "/experience/industrial/"
 
 - title: "Miscellany"
   href: "/miscellany/"

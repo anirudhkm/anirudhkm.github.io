@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Projects
-permalink: /projects/
+title: Industrial experience
+permalink: /experience/industrial/
 ---
 
 My projects and work primarily revolve around Machine Learning(supervised and unsupervised), Data Mining and exploratory analysis. I try to pick data from domains such as medical, sports because of their importance and the impact they can make. Please see my [resume](cv.md) to get an overview of my overall work.
