@@ -4,9 +4,15 @@ title: Academic experience
 permalink: /experience/academic/
 ---
 
-My projects and work primarily revolve around Machine Learning(supervised and unsupervised), Data Mining and exploratory analysis. I try to pick data from domains such as medical, sports because of their importance and the impact they can make. Please see my [resume](cv.md) to get an overview of my overall work.
+## **Coursework**
 
-## Works
+### **Fall 2015**
+
+* INFO-I519 Introduction to Bioinformatics [Grade: A]
+* INFO-I590 Topics in Informatics - Big data applications
+
+## **Projects**
+My projects and work primarily revolve around Machine Learning(supervised and unsupervised), Data Mining and exploratory analysis. I try to pick data from domains such as medical, sports because of their importance and the impact they can make. Please see my [resume](cv.md) to get an overview of my overall work.
 
 01. [Opiate/Opioid prescription analysis using machine learning](https://github.com/anirudhkm/opiate-prescription-analysis){:target="_blank"}, Fall 2016 by *Anirudh K Muralidhar* and *Arunram Sankaranarayanan*.[[PDF Report](https://drive.google.com/file/d/0B9nEIkjMSZbjWEh1MzYySjRNbmM/view?usp=sharing){:target="_blank"}]
 
