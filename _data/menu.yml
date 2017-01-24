@@ -18,10 +18,11 @@
     - subtitle: "Industrial"
       subhref: "/experience/industrial/"
 
-- title: "Miscellany"
-  href: "/miscellany/"
+- title: "Others"
+  href: "/others/"
   subcategories:
-    - subtitle: "Item 1"
-      subhref: "/miscellany/item-1/"
-    - subtitle: "Item 2"
-      subhref: "/miscellany/item-2/"
+    - subtitle: "Literature"
+      subhref: "/others/literature/"  
+    - subtitle: "Photography"
+      subhref: "/others/Photography/"
+
