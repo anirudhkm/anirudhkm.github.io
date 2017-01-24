@@ -8,7 +8,21 @@ permalink: /experience/academic/
 
 ### **Fall 2015**
 * INFO-I519 INTRODUCTION TO BIOINFORMATICS
-* INFO-I590 Topics in Informatics - Big data applications
+* INFO-I590 TOPICS IN INFORMATICS-BIG DATA APPLICATIONS/TECHNOLOGIES
+* STAT-S670 EXPLORATORY DATA ANALYSIS
+
+### **Spring 2016**
+* CSCI-B565 DATA MINING
+* ILS-Z604  SENTIMENT ANALYSIS
+* STAT-S626 BAYESIAN THEORY & DATA ANALYSIS
+
+### **Summer 2016**
+* INFO-I798 PROFESSIONAL PRACTICAL/INTERNSHIP
+
+### **Fall 2016**
+* CSCI-B659 APPLIED MACHINE LEARNING
+* INFO-I590 DATA VISUALIZATION
+* INFO-I591 GRADUATE INTERNSHIP
 
 ## **Projects**
 My projects and work primarily revolve around Machine Learning(supervised and unsupervised), Data Mining and exploratory analysis. I try to pick data from domains such as medical, sports because of their importance and the impact they can make. Please see my [resume](cv.md) to get an overview of my overall work.
