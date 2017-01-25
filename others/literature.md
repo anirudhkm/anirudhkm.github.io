@@ -4,13 +4,7 @@ title: Literature
 permalink: /others/literature/
 ---
 
-<iframe width="75%"
-	height="300px"
-	allowfullscreen
-	frameborder="0"
-	src="//storage.googleapis.com/vrview/index.html?image=/images/patashala.jpg&
-	is_stereo=true">
-</iframe>
+{% include image.html url="http://www.anirudhkm.com/vrview/?image=images/patashala.jpg" caption = "Kobe Bryant from NBA. Image taken from Google images" width=350 align="right" %}
 
 I have a great passion towards learning literature, especially ancient literature of India (Tamil and Sanskrit). Tamil gems such as 4000 Divya Prabhandham, Thirukkural are a great inspiration for me. Also, I am currently learning the sacred text Vedas (Krishna Yajur Veda - Thaithriya shakha)from Ahobila Mutt patashala(school) in Chennai.
 
