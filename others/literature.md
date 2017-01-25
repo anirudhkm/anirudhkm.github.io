@@ -6,10 +6,10 @@ permalink: /others/literature/
 
 {% include image.html url="/vrview/?image=images/patashala.jpg" caption = "Kobe Bryant from NBA. Image taken from Google images" width=350  %}
 
-```{r, echo=FALSE}
+{r, echo=FALSE}
 # Define variable containing url
 url <- "anirudhkm.com/vrview/?image=images/patashala.jpg"
-```
+
 ## Some cat!
 <center><img src="`r url`"></center>
 
