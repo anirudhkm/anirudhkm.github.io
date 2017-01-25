@@ -9,6 +9,7 @@ permalink: /others/literature/
 	height="300px"
 	allowfullscreen
 	frameborder="0"
+	name="360 degree of my patashala that I look during December 2016"
 	src="http://www.anirudhkm.com/vrview/?image=images/patashala.jpg">
 </iframe>
 
