@@ -8,7 +8,8 @@ permalink: /others/literature/
 	height="300px"
 	allowfullscreen
 	frameborder="0"
-	src="/images/patashala.jpg">
+	src="//storage.googleapis.com/vrview/index.html?image=images/patashala.jpg&
+	is_stereo=true">
 </iframe>
 
 I have a great passion towards learning literature, especially ancient literature of India (Tamil and Sanskrit). Tamil gems such as 4000 Divya Prabhandham, Thirukkural are a great inspiration for me. Also, I am currently learning the sacred text Vedas (Krishna Yajur Veda - Thaithriya shakha)from Ahobila Mutt patashala(school) in Chennai.
