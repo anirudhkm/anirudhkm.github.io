@@ -4,7 +4,7 @@ title: Literature
 permalink: /others/literature/
 ---
 
-![Photo](http://www.anirudhkm.com/vrview/?image=images/patashala.jpg)
+![Photo](http://www.abercrombiekent.co.uk/india/images/india-Taj-Mahal-shows-details.jpg)
 
 I have a great passion towards learning literature, especially ancient literature of India (Tamil and Sanskrit). Tamil gems such as 4000 Divya Prabhandham, Thirukkural are a great inspiration for me. Also, I am currently learning the sacred text Vedas (Krishna Yajur Veda - Thaithriya shakha)from Ahobila Mutt patashala(school) in Chennai.
 
