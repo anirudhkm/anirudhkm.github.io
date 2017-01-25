@@ -4,7 +4,6 @@ title: Literature
 permalink: /others/literature/
 ---
 
-![Photo](http://www.abercrombiekent.co.uk/india/images/india-Taj-Mahal-shows-details.jpg)
 
 <iframe width="100%"
 	height="300px"
