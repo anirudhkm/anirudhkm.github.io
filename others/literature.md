@@ -5,11 +5,10 @@ permalink: /others/literature/
 ---
 
 
-<iframe width="50%"
+<iframe width="100%"
 	height="300px"
 	allowfullscreen
 	frameborder="0"
-	align = "right"
 	name="360 degree of my patashala that I look during December 2016"
 	src="http://www.anirudhkm.com/vrview/?image=images/patashala.jpg">
 </iframe>
