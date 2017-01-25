@@ -4,7 +4,7 @@ title: Literature
 permalink: /others/literature/
 ---
 
-<iframe width="100%"
+<iframe width="50%"
 	height="300px"
 	allowfullscreen
 	frameborder="0"
