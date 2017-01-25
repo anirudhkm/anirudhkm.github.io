@@ -8,7 +8,7 @@ permalink: /contact/
 
 The best way to contact me would me my email. I generally reply within 48 hours.
 
-Also [**Click here to subscribe**](https://goo.gl/forms/icZDG9v9eB4BwJlj2){:target="_blank"} to get updates on my website.
+Also [**Click here to subscribe**](https://goo.gl/forms/icZDG9v9eB4BwJlj2){:target="_blank"} to get updates on my blog.
 
 ## **Email**
 
