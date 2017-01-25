@@ -4,11 +4,11 @@ title: Literature
 permalink: /others/literature/
 ---
 
-<iframe width="50%"
+<iframe width="75%"
 	height="300px"
 	allowfullscreen
 	frameborder="0"
-	src="//storage.googleapis.com/vrview/index.html?image=images/patashala.jpg&
+	src="//storage.googleapis.com/vrview/index.html?image=/images/patashala.jpg&
 	is_stereo=true">
 </iframe>
 
