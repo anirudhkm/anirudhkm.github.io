@@ -11,4 +11,4 @@ Finally, I bought my camera Nikon D5300 with my internship salary at Lands' End.
 
 ### [Click here to see my works](https://www.instagram.com/anirudhkm)
 
-Another inspiration would be my mother, she has almost captured my entire childhood with photos. Whenever, I see these photos, my heart smiles. So to keep memories physically, I love photography!
+Another inspiration comes from my mother, she has captured my entire childhood with photos. Whenever, I see these photos, my heart smiles.
