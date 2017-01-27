@@ -5,6 +5,7 @@ date:   2017-01-18 04:11:27
 categories: Thoughts
 author: Anirudh K Muralidhar
 ---
+
 It is a well known fact that proverbs are an integral part of every culture. And we do see people use proverbs to express their feelings or a particular situation.
 
 Each proverb has its own greatness and importance, but I would like to dedicate this writing to the proverb “*Little drop of water makes the mighty ocean*”. Before getting into this proverb, I just to want to speak about the ocean.
