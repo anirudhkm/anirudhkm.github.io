@@ -8,7 +8,7 @@ author: Anirudh K Muralidhar
 
 It is a well known fact that proverbs are an integral part of every culture. And we do see people use proverbs to express their feelings or a particular situation.
 
-Each proverb has its own greatness and importance, but I would like to dedicate this writing to the proverb “*Little drop of water makes the mighty ocean*”. Before getting into this proverb, I just to want to speak about the ocean.
+Each proverb has its own greatness and importance, but I would like to dedicate this writing to the proverb ***Little drop of water makes the mighty ocean***. Before getting into this proverb, I just to want to speak about the ocean.
 
 The ocean appears to be plain on the exterior and you only know it’s depth when you get in. Irrespective of the amount of water flowing in from rivers, the level of oceans always remains to be the same. Equanimity is the prime quality that we could learn from the ocean.
 
