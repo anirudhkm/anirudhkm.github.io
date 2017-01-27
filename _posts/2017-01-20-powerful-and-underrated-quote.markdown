@@ -20,13 +20,9 @@ I tend to appreciate the concept of integration with this, initially we try to f
 
 Let’s remember, right from nature, physical bodies, knowledge everything bows to this quote.
 
->So let’s aim high!  
+>Let’s aim high!  
 >Start simple!  
 >Work with persistence!  
 >Lets’ achieve the unachievable!
 
 Not to forget, 2 = 1 + 1 and 10,000 = 1 + 1 + 1 + 1 + …. + 1.
-
-#### **Reference used**:
-
-1. [Avadhoodhar inspiration from nature](http://www.kamakoti.org/kamakoti/details/bhagvatpurana65.html)
