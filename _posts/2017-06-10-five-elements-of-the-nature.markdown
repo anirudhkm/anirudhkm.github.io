@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "THE FIVE ELEMENTS OF NATURE"
+title:  "DESIGN OF MY LIFE THROUGH THE FIVE ELEMENTS OF NATURE"
 date:   2017-06-10 04:55:12
 categories: Thoughts
 author: Anirudh K Muralidhar
@@ -10,7 +10,7 @@ As we all know the five elements of nature are Space, Wind, Fire, Water and Eart
  
 I write this article to express each phase of my life through each of these elements as follows.
  
-**Birth - College graduation (Master's degree) - The Wind**: The reason I attribute this phase to wind is because of its freedom and ability to travel anywhere. I call this "exploration". I am glad that I explored fields such as sports (cricket - TNCA 3rd division, bit of chess), education (Electrical engineering, Data Scientist), photography, literature (learning several Tamil classics, practicing the Krishna Yajur Veda). Although, I haven't been very successful in any one of these, each of them as taught me a lot and shaped me for the better.
+**Birth - College graduation (Master's degree) - The Wind**: The reason I attribute this phase to wind is because of its freedom and ability to travel anywhere. I call this "exploration". I am glad that I explored fields such as education (Electrical engineering, Data Scientist), literature(Tamil and Sanskrit), sports(cricket, chess), photography. Although, I haven't been very successful in any one of these yet, each of them as taught me a lot and shaped me for the better.
  
 My exploration phase is not going to end here though, I would like to take it deeper now, rather than broader.
  
@@ -24,12 +24,9 @@ Also, I'm going to face much of my humiliations during this phase and I would li
  
 **Late 40s till retirement - The space**: As we all know, space is something that represents infinity. Whenever you are lost, you look up at the sky with a ray of hope. That's the reason I picked space for this phase. You want to live where you serve as a guide to the upcoming generations, you want to share your knowledge and experiences to those fires to better shape them. Also, you want to have infinite knowledge in the business that you do, which also helps in guiding other people. Of course, you want to age gracefully and feel the youthfulness of your grey hair.
  
-**Retirement till the end - The Earth**: This is going to be one of the most beautiful phases of my life. We know the earth is the home of billions and billions of creature. It gives food, shelter, and is one of the fundamental reasons for existence. That's why you want to be the earth. You try to help as many people as possible. Get yourself into more of philosophy, charity, and dedicate your life to the wellness of others.
- 
+**Retirement till the end - The Earth**: This is going to be one of the most beautiful phases of my life. We know the earth is the home of billions and billions of creature. It gives food, shelter, and whatnot. That's why you want to be the earth. You try to help as many people as possible. Get yourself into more of philosophy, charity, and dedicate your life to the wellness of others.
  
 We do want all five of these elements of be expressed in ourselves on a daily basis. This article is to show how I would like to have each of these 5 elements dominate each phase of my life.
- 
-I want to end this by saying, "I did make mistakes, I am making mistakes, I will make mistakes". I pray to God to give me the strengths to accept my mistakes and correct them. Let's keep the e-go aside and live the present.
  
  
  
