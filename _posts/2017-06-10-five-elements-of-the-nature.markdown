@@ -18,8 +18,6 @@ My exploration phase is not going to end here though, I would like to take it de
 
 Also, I'm going to face much of my humiliations during this phase and I would like to take that up like the fire that never looks down.
  
->People say have fire in your belly, I say have fire in your heart. The fire that's gonna light lives.
- 
 **Next 15 years - The water**: Most of us would read the quote of the great Bruce Lee, who says *be water my friend*. Water, as we know, has this remarkable quality of taking the shape of any container. This represents **flexibility**. You are going to have a family during this phase, you don't want to become a workaholic, you want to be flexible to both sides of your life and bring the best in them.
  
 **Late 40s till retirement - The space**: As we all know, space is something that represents infinity. Whenever you are lost, you look up at the sky with a ray of hope. That's the reason I picked space for this phase. You want to live where you serve as a guide to the upcoming generations, you want to share your knowledge and experiences to those fires to better shape them. Also, you want to have infinite knowledge in the business that you do, which also helps in guiding other people. Of course, you want to age gracefully and feel the youthfulness of your grey hair.
