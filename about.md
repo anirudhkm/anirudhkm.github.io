@@ -6,10 +6,14 @@ permalink: /about/
 
 {% include image.html url="/images/anirudhkm.jpg" caption = "Taken during career fair" width=300 align="right" %}
 
-I am Anirudh K Muralidhar (Ani) born and brought up in the exciting city of Chennai, India. I did my undergraduate (2010-2014) in Electrical and Electronics Engineering at SSN College. Later worked as an Analyst for an year at Mobius Knowledge services in Chennai. Now I am currently doing my masters degree (Aug 2015 - May 2017) in data science at Indiana University, Bloomington(Indiana).
+I am Anirudh K Muralidhar (Ani), born and brought up in the exciting city of Chennai, India. I did my undergraduate (2010-2014) in Electrical and Electronics Engineering, and my Masters in Data Science. currently, I am working as a Data Scientist with Footlocker.
 
-To speak more about me, a budding data scientist who is currently looking out for full time data science job opportunities at USA. I love [photography](https://www.instagram.com/anirudhkm), which helps me to see the world through my third eye. Added to these, I have great affinity towards literature, trying to learn Vedas a bit and the classic tamil texts Thirukural and divya prabandham.
+See my experience to know more about my work.
 
-### LIFE QUOTE
+More about me, I love photography, which gives me a chance to see the world through my third eye. Added to these, I have a great affinity for ancient literature, as I am trying to learn Vedas a bit and the classic tamil texts such as *Thirukural* and *divya prabandham*.
 
-We always acheive our dreams 24*7, it all boils down to what we dream about. DREAM CONSTRUCTIVE!!.
+Also, I'm running a YouTube channel [Velvi](https://www.youtube.com/channel/UC4CWLSa1TR7zmj7PKu1SG2w), were I post contents related to Data Science, right from learning Python programming language.
+
+###**LIFE QUOTE**
+
+We always achieve our dreams 24*7, it all matters to what we dream. DREAM CONSTRUCTIVE!!
