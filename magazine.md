@@ -1,12 +1,17 @@
 ---
 layout: page
-title: Magazine
+title: Velvi - Magazine
 permalink: /magazine/
 ---
 
-This part speaks about the magazine that I run by the name **Velvi**. I have expressed my thoughts on why I started this in the first edition. But, I would like to explain it here as well for the ease of readers.
+# Magazine editions
 
-Below the article you find the links to various editions of the magazine as well.
+1. [The welcome edition.](https://indd.adobe.com/view/f1c01550-b922-4785-b5a0-c646ebed52da)
+
+2. [The intern edition.](https://indd.adobe.com/view/5d0c8903-d88b-4890-ae7f-e516ddbb34f8)
+
+
+This part speaks about the magazine that I run by the name **Velvi**. I have expressed my thoughts on why I started this in the first edition. But, I would like to explain it here as well for the ease of readers. Below the article you find the links to various editions of the magazine as well.
 
 Learning from the past has always been an inherent quality of any living being. Currently, I am working as a data scientist in the Bay area, where I work out this trait artificially. Last week, as I was lying down in my bed thinking the paths traveled by me. And specifically on how my Master’s degree has shaped up me in terms of my education and character. My Master’s was in Data Science, and it really thought me the power of data, and how to derive insights using them. I also had the pleasure of meeting people from different backgrounds and countries, and this has helped in my evolution, and I can easily tag these moments as the best in my life at the United States.
 
@@ -18,7 +23,7 @@ I am really grateful for the opportunities granted and especially the people (po
  
 With these two objectives, welcome to the magazine VELVI, where you will find such content and thoughts.
 
-##Why?
+## Why?
 
 What is the outcome when a data scientist and music artist sit and talk? What would have be the learning curve of a guy with no prior leadership experience who steps into a president role at a college level?
 
@@ -30,10 +35,3 @@ Finally, magazines are fascinating, primarily when it comes to the design. I alw
 
 --
 Anirudh K. Muralidhar (July 17th, 2018)
-
-
-# Magazine editions
-
-1. [The welcome edition.](https://indd.adobe.com/view/f1c01550-b922-4785-b5a0-c646ebed52da)
-
-2. [The intern edition.](https://indd.adobe.com/view/5d0c8903-d88b-4890-ae7f-e516ddbb34f8)
