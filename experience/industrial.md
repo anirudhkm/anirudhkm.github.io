@@ -43,3 +43,7 @@ After my summer intern, my internship was extended by Land's End to continue my 
 * Worked on a market basket analysis to mine association rules from transaction data.
 
 * Developed a churn prediction model to predict customers who are likely to churn out and find the factors which influences this churn.
+
+## **Data Scientist at Footlocker**, Bradenton, Florida (September 2017 - March 2018)
+
+## **Data Scientist at eBay**, San Jose, California (March 2018 - Current)
