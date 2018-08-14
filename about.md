@@ -6,7 +6,7 @@ permalink: /about/
 
 {% include image.html url="/images/anirudhkm.jpg" caption = "Taken during career fair" width=300 align="right" %}
 
-I am Anirudh K Muralidhar (Ani), born and brought up in the exciting city of Chennai, India. I did my undergraduate (2010-2014) in Electrical and Electronics Engineering, and my Masters in Data Science. currently, I am working as a Data Scientist with Footlocker.
+I am Anirudh K Muralidhar (Ani), born and brought up in the exciting city of Chennai, India. I did my undergraduate (2010-2014) in Electrical and Electronics Engineering, and my Masters in Data Science. currently, I am working as a Data Scientist with eBay, California.
 
 See my experience to know more about my work.
 
