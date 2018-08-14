@@ -12,8 +12,8 @@ See my experience to know more about my work.
 
 More about me, I love photography, which gives me a chance to see the world through my third eye. Added to these, I have a great affinity for ancient literature, as I am trying to learn Vedas a bit and the classic tamil texts such as *Thirukural* and *divya prabandham*.
 
-Also, I'm running a YouTube channel [Velvi](https://www.youtube.com/channel/UC4CWLSa1TR7zmj7PKu1SG2w), were I post contents related to Data Science, right from learning Python programming language.
+Also, I'm running a magazine by the name [Velvi](https://www.anirudhkm.com/magazine/), please refer to the link for more details.
 
-###**LIFE QUOTE**
+### **LIFE QUOTE**
 
 We always achieve our dreams 24*7, it all matters to what we dream. DREAM CONSTRUCTIVE!!
