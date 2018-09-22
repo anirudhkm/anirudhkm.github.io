@@ -10,6 +10,8 @@ permalink: /magazine/
 
 2. [The intern edition.](https://indd.adobe.com/view/5d0c8903-d88b-4890-ae7f-e516ddbb34f8)
 
+3. [The market edition.](https://indd.adobe.com/view/0fd5c4bd-d9af-4ae0-8b01-a5025c5d0f7b)
+
 
 This part speaks about the magazine that I run by the name **Velvi**. I have expressed my thoughts on why I started this in the first edition. But, I would like to explain it here as well for the ease of readers. Below the article you find the links to various editions of the magazine as well.
 
