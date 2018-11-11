@@ -9,6 +9,6 @@ For the past 5-6 years I have gained friends who are really good at photography 
 
 Finally, I bought my camera Nikon D5300 with my internship salary at Lands' End. From then me and my camera have been walking a great journey. Though, I have no professional education in photography, I enjoy this atmost. My third eye(camera) gives me a new perspective on how I percieve things.
 
-### [Click here to see my works](https://www.instagram.com/anirudhkm)
+### [Click here to see my works](https://www.instagram.com/rudhran796/)
 
 Another inspiration comes from my mother, she has captured my entire childhood with photos. Whenever, I see these photos, my heart smiles. So, for these reasons I have an affinity towards photography.
