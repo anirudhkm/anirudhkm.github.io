@@ -14,6 +14,8 @@ permalink: /magazine/
 
 4. [The camera edition.](https://indd.adobe.com/view/0257ad96-03b5-43ba-a192-c3f6acc52d89)
 
+5. [The journey edition.](https://indd.adobe.com/view/5cab7f85-7bdb-4f49-9396-fe7224469bb7)
+
 
 This part speaks about the magazine that I run by the name **Velvi**. I have expressed my thoughts on why I started this in the first edition. But, I would like to explain it here as well for the ease of readers. Below the article you find the links to various editions of the magazine as well.
 
